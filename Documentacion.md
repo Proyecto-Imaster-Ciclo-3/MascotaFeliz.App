@@ -67,4 +67,4 @@ Su trabajo consiste en desarrollar una solución que permita el adecuado manejo 
 
 El sitio del sistema lo puede consultar en el siguiente enlace [http://www.mimascotafeliz.somee.com/](http://www.mimascotafeliz.somee.com/)
 
-Los diagramas del sistema lo puedes consultar en el siguiente enlace [https://www.mimascotafeliz.app/Diagramas](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&page-id=jmDnNmUA80Y7p93uCzOF&title=Diagrama%20sin%20t%C3%ADtulo%20drawio.html#G1Wg6vq2D67Z42oyh-EkzBnOz0WoRgrSwu)
+Los diagramas del sistema lo puedes consultar en el siguiente enlace [https://www.mimascotafeliz.app/Diagramas](https://drive.google.com/file/d/1dBlHr8yUXfMUU17Jf6hvFaRpo4mS5fX5/view)
