@@ -48,5 +48,5 @@ Se requiere de un equipo de programadores para trabajar la metodologia agil Scru
 
 ## Modelo conceptual, Diagrama UML y Diagrama Entidad Relacion 
 
-`Diagrama realizado desde https://draw.oi ` : [https://multiservicioglobalcar/Diagramas](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&page-id=jmDnNmUA80Y7p93uCzOF&title=Diagrama%20sin%20t%C3%ADtulo%20drawio.html#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1Wg6vq2D67Z42oyh-EkzBnOz0WoRgrSwu%26export%3Ddownload)
+`Diagrama realizado desde https://draw.oi ` : [https://multiservicioglobalcar/Diagramas](https://drive.google.com/file/d/1dBlHr8yUXfMUU17Jf6hvFaRpo4mS5fX5/view)
 
